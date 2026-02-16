@@ -1,0 +1,7 @@
+interface:
+  display_name: "Naira Agent CLI"
+  short_description: "Transfer Naira and pay bills with secure OTP sessions"
+  default_prompt: "Use $naira-agent-cli to transfer Naira, pay electricity/data/airtime/TV bills, and run session-based bulk or scheduled payments safely."
+
+policy:
+  allow_implicit_invocation: true
