@@ -12,7 +12,7 @@ This skill defines a safe, repeatable workflow for AI agents using the `naira-ag
 Preferred (global):
 
 ```bash
-npm i -g @naira-agent/cli
+npm i -g naira-agent
 naira-agent --help
 ```
 
